@@ -1,4 +1,4 @@
-# Customer Intelligence System: Churn Prediction & Behavioral Segmentation
+# Customer Churn Segmentation System: Churn Prediction & Behavioral Segmentation
 
 ## Project Summary
 
